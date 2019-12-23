@@ -1,4 +1,4 @@
-package com.engineer
+package com.engineer;
 
 public class Calculation {
 	int firstNumber;
